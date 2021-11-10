@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operatörler", "operatörler\operatörler.csproj", "{DBDF7D92-98B1-4757-BE15-F95D35C1BB64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBDF7D92-98B1-4757-BE15-F95D35C1BB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDF7D92-98B1-4757-BE15-F95D35C1BB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDF7D92-98B1-4757-BE15-F95D35C1BB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDF7D92-98B1-4757-BE15-F95D35C1BB64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4343349-0424-4DD2-AC15-2BB535775FB6}
+	EndGlobalSection
+EndGlobal

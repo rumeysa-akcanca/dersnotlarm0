@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\dersnotlarm0\operatörler\operatörler\obj\Debug\net5.0\operatörler.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\dersnotlarm0\operatörler\operatörler\obj\Debug\net5.0\operatörler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\dersnotlarm0\operatörler\operatörler\obj\Debug\net5.0\operatörler.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\dersnotlarm0\operatörler\operatörler\obj\Debug\net5.0\operatörler.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\dersnotlarm0\operatörler\operatörler\obj\Debug\net5.0\operatörler.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\dersnotlarm0\operatörler\operatörler\bin\Debug\net5.0\operatörler.exe
+C:\Users\ASUS\Desktop\dersnotlarm0\operatörler\operatörler\bin\Debug\net5.0\operatörler.deps.json
+C:\Users\ASUS\Desktop\dersnotlarm0\operatörler\operatörler\bin\Debug\net5.0\operatörler.runtimeconfig.json
+C:\Users\ASUS\Desktop\dersnotlarm0\operatörler\operatörler\bin\Debug\net5.0\operatörler.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\dersnotlarm0\operatörler\operatörler\bin\Debug\net5.0\operatörler.dll
+C:\Users\ASUS\Desktop\dersnotlarm0\operatörler\operatörler\bin\Debug\net5.0\ref\operatörler.dll
+C:\Users\ASUS\Desktop\dersnotlarm0\operatörler\operatörler\bin\Debug\net5.0\operatörler.pdb
+C:\Users\ASUS\Desktop\dersnotlarm0\operatörler\operatörler\obj\Debug\net5.0\operatörler.dll
+C:\Users\ASUS\Desktop\dersnotlarm0\operatörler\operatörler\obj\Debug\net5.0\ref\operatörler.dll
+C:\Users\ASUS\Desktop\dersnotlarm0\operatörler\operatörler\obj\Debug\net5.0\operatörler.pdb
+C:\Users\ASUS\Desktop\dersnotlarm0\operatörler\operatörler\obj\Debug\net5.0\operatörler.genruntimeconfig.cache
