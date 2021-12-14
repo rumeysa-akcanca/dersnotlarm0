@@ -19,7 +19,7 @@ namespace ConsoleApp1
             Console.WriteLine(posta);
             Console.Write("parola:");
             string parola = Console.ReadLine();
-            Console.WriteLine("ad :"+ adS +"\nposta:"+"posta+" \nparola:"+parola)
+            Console.WriteLine("ad :"+ adS +"\nposta:"+"posta+" \nparola:"+parola);
 
 
 
