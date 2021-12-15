@@ -22,8 +22,6 @@ namespace operatörler
             //int toplam = s1 + s2;
             //SORU
 
-
-            //Console.Write("1. sayı giriniz: ");
             //string s1 = Console.ReadLine();
             //int sayi1 =Convert.ToInt32(s1);
 
