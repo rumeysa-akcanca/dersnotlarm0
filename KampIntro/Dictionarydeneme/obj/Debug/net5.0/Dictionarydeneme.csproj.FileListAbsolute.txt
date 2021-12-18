@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\dersnotlarm0\KampIntro\Dictionarydeneme\bin\Debug\net5.0\Dictionarydeneme.exe
+C:\Users\ASUS\Desktop\dersnotlarm0\KampIntro\Dictionarydeneme\bin\Debug\net5.0\Dictionarydeneme.deps.json
+C:\Users\ASUS\Desktop\dersnotlarm0\KampIntro\Dictionarydeneme\bin\Debug\net5.0\Dictionarydeneme.runtimeconfig.json
+C:\Users\ASUS\Desktop\dersnotlarm0\KampIntro\Dictionarydeneme\bin\Debug\net5.0\Dictionarydeneme.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\dersnotlarm0\KampIntro\Dictionarydeneme\bin\Debug\net5.0\Dictionarydeneme.dll
+C:\Users\ASUS\Desktop\dersnotlarm0\KampIntro\Dictionarydeneme\bin\Debug\net5.0\ref\Dictionarydeneme.dll
+C:\Users\ASUS\Desktop\dersnotlarm0\KampIntro\Dictionarydeneme\bin\Debug\net5.0\Dictionarydeneme.pdb
+C:\Users\ASUS\Desktop\dersnotlarm0\KampIntro\Dictionarydeneme\obj\Debug\net5.0\Dictionarydeneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\dersnotlarm0\KampIntro\Dictionarydeneme\obj\Debug\net5.0\Dictionarydeneme.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\dersnotlarm0\KampIntro\Dictionarydeneme\obj\Debug\net5.0\Dictionarydeneme.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\dersnotlarm0\KampIntro\Dictionarydeneme\obj\Debug\net5.0\Dictionarydeneme.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\dersnotlarm0\KampIntro\Dictionarydeneme\obj\Debug\net5.0\Dictionarydeneme.dll
+C:\Users\ASUS\Desktop\dersnotlarm0\KampIntro\Dictionarydeneme\obj\Debug\net5.0\ref\Dictionarydeneme.dll
+C:\Users\ASUS\Desktop\dersnotlarm0\KampIntro\Dictionarydeneme\obj\Debug\net5.0\Dictionarydeneme.pdb
+C:\Users\ASUS\Desktop\dersnotlarm0\KampIntro\Dictionarydeneme\obj\Debug\net5.0\Dictionarydeneme.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\dersnotlarm0\KampIntro\Dictionarydeneme\obj\Debug\net5.0\Dictionarydeneme.csproj.AssemblyReference.cache
