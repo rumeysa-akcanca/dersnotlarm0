@@ -8,22 +8,14 @@ namespace Dictionarydeneme
         static void Main(string[] args)
         {
            Dictionary <int,string> sozluk = new Dictionary <int,string> ();
-           
             sozluk.Add(1, "a");
             Console.WriteLine(sozluk.Count);
-            //foreach (var item in sozluk)
-            //{
-            //    Console.WriteLine(item);
-            //}
+           
             MyDictionary<int, string> mysozluk = new MyDictionary<int, string>();
             mysozluk.Add(2, "b");
             mysozluk.Add(3, "c");
             Console.WriteLine(mysozluk.Count);
 
-            //foreach (var item in mysozluk)
-            //{
-            //    Console.WriteLine(item);
-            //}
         }
     }
 
@@ -37,9 +29,7 @@ namespace Dictionarydeneme
         {
             array = new K[0];
             array1 = new V[0];
-            
         }
-
         public void Add(K item, V item1)
         {
             temparray = array;//geçmiş veriyi tempde tutuyoruz
@@ -57,14 +47,12 @@ namespace Dictionarydeneme
             //simdide yeni eklenen değerleri atama
             array[array.Length - 1] = item;
             array1[array1.Length - 1] = item1;
-;
         }
         public int Count
         {
             get { return array.Length;
                 return array1.Length;
               }
-           
         }
 
     }
