@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace OyunProject.Abstract
 {
-     public interface IMemberService :ICRUDService
+     public interface IMemberService :ICRUDService<Member>
     {
         
     }
