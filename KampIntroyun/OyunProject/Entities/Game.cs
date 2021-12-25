@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace OyunProject.Entities
 {
-   public  class Games:IEntity
+   public  class Game:IEntity
     {
         public int Id { get; set; }
         public string Name { get; set; }
