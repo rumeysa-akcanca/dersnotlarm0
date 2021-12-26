@@ -15,11 +15,9 @@ namespace Dictionarydeneme
             mysozluk.Add(2, "b");
             mysozluk.Add(3, "c");
             Console.WriteLine(mysozluk.Count);
-
         }
     }
-
-    public class MyDictionary<K,V>// farklı olmalıya
+    public class MyDictionary<K,V>
     {
         K[] array;
         K[] temparray;
