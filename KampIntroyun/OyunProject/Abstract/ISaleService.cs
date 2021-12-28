@@ -1,4 +1,5 @@
-﻿using OyunProject.Entities;
+﻿using OyunProject.Concrete;
+using OyunProject.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,9 +8,8 @@ using System.Threading.Tasks;
 
 namespace OyunProject.Abstract
 {
-     public interface ICampaignService:ICRUDService<Campaign>
+    interface ISaleService
     {
-        
-
+        void Sale(Member memberi, Game game, Campaign campaign);
     }
 }

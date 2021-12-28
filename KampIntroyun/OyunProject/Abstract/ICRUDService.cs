@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OyunProject.Abstract
 {
-    public interface ICRUDService<T entity>// nasıl kullancam bilmiyorum 
+    public interface ICRUDService<T>
     {
         void Register(T entity);
         void Delete(T entity);

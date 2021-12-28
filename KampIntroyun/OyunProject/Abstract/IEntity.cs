@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace OyunProject.Abstract
 {
-    interface IEntity
+    public interface IEntity
     {
+
     }
 }
